@@ -2,7 +2,7 @@
 
 **Software Engineer · Jakarta, Indonesia (UTC+7)**
 
-Software engineer with 4+ years in Rails, Go, Python, and AI workflows. I own production systems end to end: design, release, and the incident afterwards. I find root causes rather than symptoms and build async systems that fail safely.
+Software engineer with 5+ years in Rails, Go, Python, and AI workflows. I own production systems end to end: design, release, and the incident afterwards. I find root causes rather than symptoms and build async systems that fail safely.
 
 Currently at **[Luce](https://www.luce.sg/)**, a Singapore home-services platform.
 
@@ -28,7 +28,7 @@ Used well, they raise the ceiling of what a single engineer can ship.
 
 ## Open Source
 
-- **[redacted](https://github.com/svn-arv/redacted)** (Go): secrets guardrail for AI coding assistants. Detects and redacts credentials before tool output reaches external APIs, using pattern matching and entropy-based scoring. Site: [redacted.my.id](https://redacted.my.id)
+- **[redacted](https://github.com/svn-arv/redacted)** (Rust): secrets guardrail for AI coding assistants. Detects and redacts credentials before tool output reaches external APIs, using pattern matching and entropy-based scoring. Site: [redacted.my.id](https://redacted.my.id)
 - **[event_timeline](https://github.com/svn-arv/event_timeline)** (Ruby gem): records model state changes as a queryable audit trail for traceability and debugging.
 
 ## Stack
